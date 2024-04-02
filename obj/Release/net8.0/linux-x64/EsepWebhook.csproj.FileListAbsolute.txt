@@ -16,3 +16,4 @@ C:\Program Files\dotnet\EsepWebhook\src\EsepWebhook\obj\Release\net8.0\linux-x64
 C:\Program Files\dotnet\EsepWebhook\src\EsepWebhook\obj\Release\net8.0\linux-x64\EsepWebhook.genruntimeconfig.cache
 C:\Program Files\dotnet\EsepWebhook\src\EsepWebhook\obj\Release\net8.0\linux-x64\ref\EsepWebhook.dll
 C:\Program Files\dotnet\EsepWebhook\src\EsepWebhook\obj\Release\net8.0\linux-x64\EsepWebhook.sourcelink.json
+C:\Program Files\dotnet\EsepWebhook\src\EsepWebhook\bin\Release\net8.0\linux-x64\Newtonsoft.Json.dll
